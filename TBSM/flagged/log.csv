@@ -1,0 +1,18 @@
+symptoms,output,flag,username,timestamp
+"neck_pain, stiffness, headache, dizziness, numbness, weakness_in_arms_or_hands, loss_of_balance, difficulty_swallowing, muscle_spasms, tingling_sensation.","🔍 **Predicted Disease:** Cervical spondylosis
+
+📊 **Chance of Occurrence:** 51.15%",,,2025-02-21 16:45:27.825931
+"fever, chills, sweating, headache, nausea, vomiting, muscle_pain, fatigue, rapid_heartbeat, abdominal_pain.","🔍 **Predicted Disease:** Malaria
+
+📊 **Chance of Occurrence:** 77.60%",,,2025-02-21 16:55:41.748053
+"fever, chills, sweating, headache, nausea, vomiting, muscle_pain, fatigue, rapid_heartbeat, abdominal_pain.","🔍 **Predicted Disease:** Malaria
+
+📊 **Chance of Occurrence:** 77.60%",,,2025-02-21 17:00:23.155350
+"fever, chills, sweating, headache, nausea, vomiting, muscle_pain, fatigue, rapid_heartbeat, abdominal_pain.","🔍 **Predicted Disease:** Malaria
+
+📊 **Chance of Occurrence:** 77.60%
+
+🩺 **Precautions:**
+✅ Use mosquito nets
+✅ Take prescribed medication
+✅ Avoid stagnant water",,,2025-02-21 18:23:38.989025
